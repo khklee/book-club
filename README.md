@@ -12,11 +12,11 @@
         <li><a href="#questions">Questions</a></li>
     </ul>
 <h2 id="usage">## Usage</h2>
-    <p>Answer all of the questions from a command-line and the sample README for your project will be generated.</p>
+    <p>Please visit the deployed website: https://book-club-search.herokuapp.com/</p>
 <h2 id="screenshot">## Screenshot</h2>
-    <img src='../client/src/assets/main.png'/>
-    <img src='../client/src/assets/saved-books.png'/>
-    <img src='../client/src/assets/search-result.png'/>
+    <img src='./client/src/assets/main.png'/>
+    <img src='./client/src/assets/saved-books.png'/>
+    <img src='./client/src/assets/search-result.png'/>
 <h2 id="license">## License</h2>
     <p>
       This application is covered under MIT and please <a href="https://choosealicense.com/licenses/">click here</a> to find out more details.
